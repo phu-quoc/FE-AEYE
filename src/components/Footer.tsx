@@ -1,17 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import {motion} from 'framer-motion';
-import {fadeIn} from "../../variants";
 import {BookUser, Home, Mail, Phone} from "lucide-react";
 
 export default function Footer() {
     return (
-        <motion.footer
-            variants={fadeIn('up', 0.1)}
-            initial='hidden'
-            whileInView={'show'}
-            viewport={{once: false, amount: 0.2}}
+        <footer
             className='py-6 xl:pt-12 bg-gray-200'>
             <div className='container mx-auto'>
                 <div className='flex flex-col justify-between text-center xl:flex-row place-items-center'>
@@ -95,6 +89,6 @@ export default function Footer() {
                     <p className='text-center text-sm'>&copy; 2022 Copyright: VuaMarketing.com</p>
                 </div>
             </div>
-        </motion.footer>
+        </footer>
     )
 }

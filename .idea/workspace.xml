@@ -5,66 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9098dbc-9e38-45ad-9eda-36b314a5f994" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/customer_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Benefit.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BlogForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ContactForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Customer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Feature.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Guide.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hero.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Introduction.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MobileNav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PaginationCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/aspect-ratio.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/badge.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/label.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/sheet.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ui/tabs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variants.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/blog/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/image/02-1-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/image/02-1-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/image/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/image/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/image/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/image/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/image/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/image/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/blog-detail/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,28 +31,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/app/FE-Vuamarketing/src/components&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\app\\FE-Vuamarketing\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "last_opened_file_path": "D:/app/FE-Vuamarketing/src/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "ts.external.directory.path": "D:\\app\\FE-Vuamarketing\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\app\FE-Vuamarketing\src\app" />
       <recent name="D:\app\FE-Vuamarketing\src\components" />
       <recent name="D:\app\FE-Vuamarketing\src\lib" />
       <recent name="D:\app\FE-Vuamarketing\src\component" />
@@ -140,6 +84,7 @@
       <workItem from="1712285687091" duration="918000" />
       <workItem from="1712377841841" duration="11559000" />
       <workItem from="1712474775571" duration="5134000" />
+      <workItem from="1712575557682" duration="824000" />
     </task>
     <servers />
   </component>
