@@ -42,23 +42,23 @@ export default function Footer() {
                         <div><h4 className='font-semibold mb-5'>QUY ĐỊNH CHUNG</h4>
                             <ul className='flex flex-col gap-y-6 text-sm'>
                                 <li>
-                                    <Link href='/' className='hover:text-[#8A3EAF]'>
-                                        Chính sách thanh toán
+                                    <Link href='/terms-of-contract' className='hover:text-[#8A3EAF]'>
+                                        Điều khoản hợp đồng
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href='/' className='hover:text-[#8A3EAF]'>
-                                        Chính sách bảo mật
+                                    <Link href='/introduction' className='hover:text-[#8A3EAF]'>
+                                        Giới thiệu công ty
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href='/' className='hover:text-[#8A3EAF]'>
-                                        Chính sách & quy định chung
+                                    <Link href='/privacy-policy' className='hover:text-[#8A3EAF]'>
+                                        Chính sách riêng tư
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href='/' className='hover:text-[#8A3EAF]'>
-                                        Tuyển dụng
+                                    <Link href='/payment-process' className='hover:text-[#8A3EAF]'>
+                                        Quy trình thanh toán
                                     </Link>
                                 </li>
                             </ul>

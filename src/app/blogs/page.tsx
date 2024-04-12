@@ -2,6 +2,7 @@
 import Image from "next/image";
 import PaginationCard from "@/components/PaginationCard";
 import BlogForm from "@/components/BlogForm";
+import Link from "next/link";
 
 const blogs = [
     {
@@ -35,7 +36,7 @@ const blogs = [
         content: 'nội dung nội dung nội dung nội dung nội dung nội dung nội dung nội dung nội dung nội dung nội dung'
     },
 ]
-const BlogDetailPage = () => {
+const BlogPage = () => {
     return (
         <div className='container mx-auto py-12 xl:pt-16'>
             <div className='flex flex-wrap justify-center xl:justify-between'>
@@ -44,20 +45,23 @@ const BlogDetailPage = () => {
                         className='grid gap-y-10 xl:gap-y-10 lg:grid-cols-2 xl:grid-cols-3 xl:gap-x-[30px]'>
                         {blogs.map((blog, index) => {
                             return (
-                                <div
-                                    key={index}
-                                    className='border-2 border-outline w-[270px] rounded-xl overflow-hidden hover:cursor-pointer group hover:hover:bg-violet-100 transition-all duration-700 mx-auto xl:mx-0'
+                                <Link href='/blog-details'
+                                      key={index}
                                 >
-                                    <Image src={blog.image} width={270} height={270} alt=''/>
-                                    <div className='p-6'>
-                                        <h4 className='font-semibold'>
-                                            {blog.title}
-                                        </h4>
-                                        <p>
-                                            {blog.content.slice(0, 50)}...
-                                        </p>
+                                    <div
+                                        className='border-2 border-outline w-[270px] rounded-xl overflow-hidden hover:cursor-pointer group hover:hover:bg-violet-100 transition-all duration-700 mx-auto xl:mx-0'
+                                    >
+                                        <Image src={blog.image} width={270} height={270} alt=''/>
+                                        <div className='p-6'>
+                                            <h4 className='font-semibold'>
+                                                {blog.title}
+                                            </h4>
+                                            <p>
+                                                {blog.content.slice(0, 50)}...
+                                            </p>
+                                        </div>
                                     </div>
-                                </div>
+                                </Link>
                             )
                         })}
                     </div>
@@ -73,4 +77,4 @@ const BlogDetailPage = () => {
     )
 }
 
-export default BlogDetailPage;
+export default BlogPage;
