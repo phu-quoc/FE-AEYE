@@ -4,10 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9098dbc-9e38-45ad-9eda-36b314a5f994" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/blog-detail/page.tsx" afterDir="false" />
+    <list default="true" id="f9098dbc-9e38-45ad-9eda-36b314a5f994" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/src/app/introduction/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/payment-process/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/privacy-policy/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/terms-of-contract/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BreadcrumbCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Comment.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CommentForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserAvatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/avatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/breadcrumb.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog-detail/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blog-details/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/blog/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/blogs/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/data.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,11 +98,25 @@
       <workItem from="1712285687091" duration="918000" />
       <workItem from="1712377841841" duration="11559000" />
       <workItem from="1712474775571" duration="5134000" />
-      <workItem from="1712575557682" duration="824000" />
+      <workItem from="1712575557682" duration="3348000" />
+      <workItem from="1712629248936" duration="1000" />
+      <workItem from="1712905834564" duration="12001000" />
     </task>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1712576536221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712576536221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
