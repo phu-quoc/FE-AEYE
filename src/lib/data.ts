@@ -22,5 +22,5 @@ export const links = [
     {
         name: "Blog",
         href: "blogs",
-    },
+    }
 ] as const;
