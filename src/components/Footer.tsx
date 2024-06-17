@@ -10,8 +10,8 @@ export default function Footer() {
             <div className='container mx-auto'>
                 <div className='flex flex-col justify-between text-center xl:flex-row place-items-center'>
                     <div className='xl:w-[300px] mb-8 xl:mb-0 text-[#8A3EAF] font-semibold '>
-                        <p>CÔNG TY TNHH CÔNG NGHỆ VÀ GIẢI PHÁP QUẢNG CÁO</p>
-                        <p>VUA MARKETING</p>
+                        <p>CÔNG TY TNHH CÔNG NGHỆ VÀ GIẢI PHÁP</p>
+                        <p>AEYE</p>
                     </div>
                     <div className='flex-1 grid grid-cols-1 xl:grid-cols-3 gap-[50px] mb-8'>
                         <div>
@@ -67,11 +67,11 @@ export default function Footer() {
                             <ul className='flex flex-col gap-y-6 text-sm'>
                                 <li className='flex flex-row justify-center'>
                                     <Home size={18} className='mr-2'/>
-                                    Địa chỉ: Lầu 1, 19/1/3 Đường Cô Bắc, Q. Phú Nhuận, TP. HCM
+                                    Địa chỉ: Ngũ Hành Sơn, Đà Nẵng
                                 </li>
                                 <li className='flex flex-row justify-center'>
                                     <Mail size={18} className='mr-2'/>
-                                    Hỗ trợ kỹ thuật / khách hàng - support@vuamarketing.com
+                                    Hỗ trợ kỹ thuật / khách hàng - support@aeye.com
                                 </li>
                                 <li className='flex flex-row justify-center'>
                                     <Phone size={18} className='mr-2'/>
@@ -86,7 +86,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className='py-4'>
-                    <p className='text-center text-sm'>&copy; 2022 Copyright: VuaMarketing.com</p>
+                    <p className='text-center text-sm'>&copy; 2024 Copyright: Aeye.com</p>
                 </div>
             </div>
         </footer>

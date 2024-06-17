@@ -52,7 +52,7 @@ export default function Hero() {
                         whileInView={'show'}
                         viewport={{once: false, amount: 0.4}} className='hidden md:flex xl:flex relative'>
                         <div className="bg-orange-200 rounded-full">
-                            <Image className="w-[500px] h-[500px]" src={home} alt="picture"/>
+                            <Image className="w-[500px] h-[500px] rounded-full" src={home} alt="picture"/>
                         </div>
                     </motion.div>
                 </div>

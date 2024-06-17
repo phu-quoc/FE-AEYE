@@ -6,22 +6,22 @@ import {fadeIn} from "../../variants";
 const features = [
     {
         image: '/image/1.png',
-        content: 'Bạn chi quá nhiều tiền quảng cáo nhưng vẫn không có khách hàng gọi chốt đơn?',
+        content: 'Thiếu nhận thức về nguy cơ mất tập trung và buồn ngủ khi lái xe?',
         delay: 0.5,
     },
     {
-        image: '/image/1.png',
-        content: 'Mỗi lần nhân viên marketing nghỉ, face "bão" chết camp, test camp mới,... đều tốn cả đống chi phí, thời gian?',
+        image: '/image/2.png',
+        content: 'Không có giải pháp hiện có để giám sát tình trạng mất tập trung và buồn ngủ?',
+        delay: 0.1,
+    },
+    {
+        image: '/image/3.png',
+        content: 'Thiếu sự hỗ trợ và cảnh báo kịp thời trong trường hợp khẩn cấp?',
         delay: 0.1,
     },
     {
         image: '/image/1.png',
-        content: 'Chat, nhắn tin với khách nhưng mãi không có sđt để chốt đơn?',
-        delay: 0.1,
-    },
-    {
-        image: '/image/1.png',
-        content: 'Việc quản lý, lưu trữ thông tin khách hàng khó khăn, quản lý nhân viên phức tạp?',
+        content: 'Thiếu dữ liệu và phân tích về thói quen lái xe?',
         delay: 0.5,
     },
 ]

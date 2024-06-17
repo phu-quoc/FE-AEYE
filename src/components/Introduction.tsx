@@ -13,7 +13,7 @@ export default function Introduction() {
                 <div className='flex flex-col items-center gap-x-8'>
                     <iframe
                         className="w-full h-[200px] xl:h-[400px] max-w-[700px]"
-                        src="https://www.youtube.com/watch?v=mQx6iJDeKmA"
+                        src="https://youtu.be/mQx6iJDeKmA"
                         title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowFullScreen
@@ -31,13 +31,10 @@ export default function Introduction() {
                         initial='hidden'
                         whileInView={'show'}
                         viewport={{once: false, amount: 0}}
-                        className="xl:text-2xl my-8 mx-auto xl:mx-0 text-center">Vua marketing là một dự án cực kỳ hiệu
-                        quả giúp bạn không cần chạy quảng cáo mà vẫn có
-                        số nóng cho sale chốt đem lại doanh thu vượt trội và chi phí tối thiểu. Hệ thống hoàn toàn tự
-                        động, dễ dàng
-                        thao tác, dễ dàng sử dụng, dễ dàng quản lý. Bạn hoàn toàn chủ động được mọi thứ, việc bạn cần
-                        chỉ là
-                        chốt đơn, còn lại hệ thống đã lo hết cho bạn.
+                        className="xl:text-2xl my-8 mx-auto xl:mx-0 text-center">AEye giúp giảm nguy cơ tai nạn giao
+                        thông bằng cách giám sát tình trạng mất tập trung và buồn ngủ của lái xe. Sản phẩm của chúng tôi
+                        cung cấp những gợi ý và cảnh báo kịp thời để lái xe có thể giải quyết tình trạng này, đảm bảo an
+                        toàn cho lái xe và hành khách.
                     </motion.p>
                     <motion.div
                         variants={fadeIn('up', 0.4)}

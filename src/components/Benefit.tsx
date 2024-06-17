@@ -10,57 +10,57 @@ import {fadeIn} from "../../variants";
 const data = [
     {
         image: '/image/1.png',
-        title: 'Quét thông tin khách hàng của đối thủ',
-        content: 'Không chỉ quét thông tin khách hàng của bạn, chúng tôi còn hỗ trợ bạn quét khách hàng trong các quảng cáo đang chạy, các livestream trực tiếp của đối thủ.',
+        title: 'Nâng cao an toàn giao thông',
+        content: 'AEye giám sát tình trạng mất tập trung và buồn ngủ của lái xe, cung cấp cảnh báo kịp thời để giúp lái xe duy trì trạng thái tập trung và giảm nguy cơ tai nạn giao thông.',
         delay: 0.1
     },
     {
         image: '/image/2.png',
-        title: 'Tốc độ và tỉ lệ quét vượt trội',
-        content: 'Áp dụng Công Nghệ Social Lisening giúp hệ thống thu thập được tất cả dữ liệu khách hàng mà đối thủ vừa chạy quảng cáo ra với tốc độ nhanh nhất ( 0s -3s sau khi khách để lại thông tin) và tỉ lệ quét hết comment ẩn đạt trên 96% ( ở các hệ thống khác tỉ lệ này chỉ khoảng 50-60 %)',
+        title: 'Giảm rủi ro tai nạn',
+        content: 'Cảnh báo lái xe khi phát hiện tình trạng mất tập trung và buồn ngủ. Điều này giúp ngăn chặn các tình huống nguy hiểm và giữ cho lái xe và hành khách an toàn trên đường.',
         delay: 0.3
     },
     {
         image: '/image/3.png',
-        title: 'Tỷ lệ thành công cao trên 80%',
-        content: 'Với kho dữ liệu lớn và cập nhật thường xuyên. Chúng tôi cam kết tỷ lệ chuyển đổi, tra cứu cực kì cao và chính xác nhất.',
+        title: 'Cải thiện hiệu suất lái xe',
+        content: 'AEye không chỉ giúp ngăn chặn tai nạn giao thông, mà còn cung cấp thông tin liên quan đến thói quen lái xe và hiệu suất lái xe của người dùng.',
         delay: 0.5
     },
     {
         image: '/image/2.png',
-        title: 'Quét tất cả mọi tương tác',
-        content: 'Bất kì đâu, bất kì hình thức nào (comment, like, share, inbox) thì hệ thống đều có thể quét được thông tin khách hàng.',
+        title: 'Hỗ trợ khẩn cấp',
+        content: 'AEye có khả năng gửi cảnh báo và yêu cầu giúp đỡ trong trường hợp khẩn cấp. Trong tình huống cần sự can thiệp nhanh chóng, hệ thống này có thể thông báo cho gia đình, cảnh sát hoặc bệnh viện để đảm bảo sự hỗ trợ kịp thời và cứu trợ.',
         delay: 0.1
     },
     {
         image: '/image/3.png',
-        title: 'Sử dụng dễ dàng, linh hoạt',
-        content: 'Với dự án vuamarketing.com 1 bà mẹ bỉm sữa hay 1 người mù công nghệ mới bắt tay vào kinh doanh Online đều sử dụng vô cùng dễ dàng.',
+        title: 'Ghi lại dữ liệu lái xe',
+        content: 'AEye có khả năng ghi lại dữ liệu về thói quen lái xe và các sự kiện xảy ra trong quá trình lái xe. ',
         delay: 0.3
     },
     {
         image: '/image/1.png',
-        title: 'Thông tin tra cứu cụ thể, đầy đủ',
-        content: 'Chúng tôi cung cấp cho bạn các thông tin chi tiết của khách hàng như họ tên, SĐT, địa chỉ, ngày sinh, giới tính, hành vi mua hàng.',
+        title: 'Tăng cường trải nghiệm người dùng',
+        content: 'AEye mang lại trải nghiệm lái xe an toàn và thuận tiện hơn cho người dùng. Với khả năng cảnh báo và hỗ trợ trong trường hợp khẩn cấp, người dùng có thể lái xe một cách tự tin và yên tâm hơn.',
         delay: 0.5
     },
 ]
 
 const features = [
     {
-        text: 'Tự động quét SĐT khách hàng trên quảng cáo đối thủ',
+        text: 'Giám sát mất tập trung và buồn ngủ',
     },
     {
-        text: 'Quét được tất cả các comment ẩn bài quảng cáo đối thủ (các hệ thống khác chỉ quét được 1 phần)',
+        text: 'Cảnh báo và hỗ trợ kịp thời',
     },
     {
-        text: 'Quét tất cả khách hàng comment trên live stream có ẩn tự động comment',
+        text: 'Ghi lại dữ liệu lái xe',
     },
     {
-        text: 'Dữ liệu cập nhật tự động liên tục',
+        text: 'Tích hợp với hệ thống xe và ứng dụng di động',
     },
     {
-        text: 'Rất nhiều chức năng giúp quản lý, vận hành cực kỳ hiệu quả dữ liệu thu được và chốt sale linh hoạt đem lại doanh thu vượt trội.',
+        text: 'Tự động thực hiện cuộc gọi khẩn cấp.',
     },
 ]
 export default function Benefit() {
