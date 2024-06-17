@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9098dbc-9e38-45ad-9eda-36b314a5f994" name="Changes" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Benefit.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Benefit.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Feature.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Feature.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Guide.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Guide.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Introduction.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Introduction.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Logo.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +86,7 @@
       <workItem from="1712575557682" duration="3348000" />
       <workItem from="1712629248936" duration="1000" />
       <workItem from="1712905834564" duration="12001000" />
-      <workItem from="1718632807323" duration="3040000" />
+      <workItem from="1718632807323" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1712576536221</created>

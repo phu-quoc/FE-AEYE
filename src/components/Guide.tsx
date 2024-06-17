@@ -15,7 +15,7 @@ export default function Guide() {
                     <p className="text-[#42495b] xl:text-[40px] text-3xl font-bold text-center pb-14">HƯỚNG DẪN</p>
                     <iframe
                         className="w-full h-[200px] xl:h-[400px] max-w-[700px]"
-                        src="https://youtu.be/mQx6iJDeKmA"
+                        src="https://www.youtube.com/embed/mQx6iJDeKmA"
                         title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowFullScreen

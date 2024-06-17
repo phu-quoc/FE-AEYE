@@ -13,7 +13,7 @@ export default function Introduction() {
                 <div className='flex flex-col items-center gap-x-8'>
                     <iframe
                         className="w-full h-[200px] xl:h-[400px] max-w-[700px]"
-                        src="https://youtu.be/mQx6iJDeKmA"
+                        src="https://www.youtube.com/embed/mQx6iJDeKmA"
                         title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowFullScreen
