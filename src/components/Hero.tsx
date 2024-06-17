@@ -21,8 +21,7 @@ export default function Hero() {
                             initial='hidden'
                             whileInView={'show'}
                             viewport={{once: false, amount: 0}}
-                            className='text-6xl xl:text-[72px] xl:leading-[80px] tracking-[-2px] font-bold mt-24 xl:mt-0'>Vua
-                            Marketing
+                            className='text-6xl xl:text-[72px] xl:leading-[80px] tracking-[-2px] font-bold mt-24 xl:mt-0'>AEYE
                         </motion.h1>
                         <motion.p
                             variants={fadeIn('down', 0.2)}
@@ -30,7 +29,7 @@ export default function Hero() {
                             whileInView={'show'}
                             viewport={{once: false, amount: 0}}
                             className='xl:text-2xl my-8 max-w-[600px] mx-auto xl:mx-0'>
-                            Dịch vụ khai thác số điện thoại, thông tin khách hàng từ chiến dịch quảng cáo của đối thủ
+                            Thiết bị AI cảnh báo và ngăn chặn tình trạng ngủ gật
                         </motion.p>
                         <motion.div
                             variants={fadeIn('down', 0.4)}
